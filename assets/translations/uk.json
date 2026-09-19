@@ -421,5 +421,17 @@
     "wizard_skip_dialog_message_notifications": "Вам потрібно буде пізніше погодитися на конфіденційність даних сповіщень, якщо ви бажаєте використовувати Tautulli Remote для отримання push-сповіщень.",
     "wizard_notifications_consent_switch_title": "Згода на конфіденційність даних сповіщень",
     "wizard_notifications_title": "Push-сповіщення",
-    "wizard_notifications_view_privacy_title": "Переглянути конфіденційність даних сповіщень"
+    "wizard_notifications_view_privacy_title": "Переглянути конфіденційність даних сповіщень",
+    "appearance_title": "Зовнішній вигляд",
+    "device_logs_title": "Журнали пристрою",
+    "encrypted_title": "Зашифровано",
+    "error_message_device_id_unavailable": "Не вдається ідентифікувати цей пристрій",
+    "error_message_push_token_unavailable": "Не вдалося визначити токен сповіщень цього пристрою",
+    "error_suggestion_device_id_unavailable": "Перезапустіть додаток та спробуйте ще раз. Якщо пристрій щойно перезавантажили, спочатку розблокуйте його.",
+    "filter_logs_title": "Фільтрувати журнали",
+    "level_title": "Рівень",
+    "logs_export_failed_message": "Не вдалося експортувати журнали.",
+    "logs_title": "Журнали",
+    "notification_logs_clear_dialog_title": "Ви впевнені, що хочете очистити журнали сповіщень?",
+    "notification_logs_title": "Журнали сповіщень"
 }
